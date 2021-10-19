@@ -2,6 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremehyo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supremehyo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -37,6 +38,7 @@
 <div align="center" style="text-align:center">
   
   <a href="https://choi-dev.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://choi-dev.tistory.com/"/></a>
+     <a href="https://choi-dev.tistory.com/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://choi-dev.tistory.com/"/></a>
   
 </div>
   
