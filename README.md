@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChoiHyoSeok&fontSize=70&animation=twinkling)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremehyo&show_icons=true&theme=radical)
+
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> 자주 사용하는 것 </p>
@@ -32,17 +36,13 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://choi-dev.tistory.com/132)](https://choi-dev.tistory.com/)
-  [![Velog's GitHub stats](https://choi-dev.tistory.com/106)](https://choi-dev.tistory.com/)
+  <a href="https://choi-dev.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://choi-dev.tistory.com/"/></a>
   
 </div>
   
 <br>
 
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
-<p align="center">
-  <a href="https://choi-dev.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://choi-dev.tistory.com/"/></a>
-</p>
+
 <br>
 
